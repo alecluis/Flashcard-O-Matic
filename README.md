@@ -14,6 +14,7 @@ React CRUD app that allows user to create, view, edit, and delete a series of fl
 
 ![Screenshot (111)](https://github.com/alecluis/WeLoveMovies/assets/143030955/bb1b0331-b8eb-420c-9010-2a602adcd00b)
 
+<h3>User can view a deck, the page displays all the cards in the deck:</h3>
 
 ![Screenshot (112)](https://github.com/alecluis/WeLoveMovies/assets/143030955/c579c1d1-e499-46c7-aa4f-dfbab5afd3fc)
 
