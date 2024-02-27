@@ -2,7 +2,7 @@
 
 React CRUD app that allows user to create, view, edit, and delete a series of flashcard decks, and their cards as well.
 
-**<h3>The user can view all flashcard decks:</h3>
+<h3>The user can view all flashcard decks:</h3>
 
 ![Screenshot (109)](https://github.com/alecluis/WeLoveMovies/assets/143030955/4b3b1055-27c6-4dbe-acb0-ea657475ba1b)
 
